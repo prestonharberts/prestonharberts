@@ -1,4 +1,4 @@
-Hello, I'm Preston Harberts! 👋
+### Hello, I'm Preston Harberts! 👋
 
 - 🎓 **Computer Science Student** at **Tennessee Tech University**  
 - 🚀 Passionate about **learning, building, and exploring new ideas**  
